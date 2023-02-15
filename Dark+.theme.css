@@ -13,16 +13,16 @@
 @import url('https://devevil99.github.io/devevil/BetterDiscordAddons/Theme/Dark+/Dark+.theme.css');
 
 :root {
-  --darkplus-bg: #300000;
-  --darkplus-bg2: #300000;
-  --darkplus-sec: #214321;
-  --darkplus-links: #066000;
+  --darkplus-bg: #410000;
+  --darkplus-bg2: #410000;
+  --darkplus-sec: #375537;
+  --darkplus-links: #266000;
   --darkplus-home-icon: url(https://cdn.discordapp.com/attachments/468141324906921984/852117175212179466/discord-avatar-512-YV0PV.png);
  --watermark-filter-invert: 0%;
-  --watermark-filter-sepia: 50%;
+  --watermark-filter-sepia: 52%;
   --watermark-filter-saturate: 3001%;
   --watermark-filter-hue-rotate: 210deg;
-  --watermark-filter-brightness: 70%;
+  --watermark-filter-brightness: 50%;
   --watermark-filter-contrast: 200%;
   --darkplus-emoji-picker-color: 210deg;
 }
